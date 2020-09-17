@@ -7,6 +7,12 @@ Need help for ideas, feel free to use the tool for testing porpuse, pull request
 
 Maybe with a little help I can finish this
 
+## Install
+```
+sudo pip3 install BeautifulSoup4 oset requests
+sudo apt-get install python3-lxml
+```
+
 ## Example
 ```python3 robologin.py -u http://testphp.vulnweb.com/login.php```
 
